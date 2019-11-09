@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4411c0d-f3e0-4347-98c9-1dad79bb9c1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/domain/User.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/Icons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/Images.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/Questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/Result.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/util/UserProfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -98,7 +90,7 @@
       <updated>1573309439580</updated>
       <workItem from="1573309480227" duration="217000" />
       <workItem from="1573315742516" duration="4086000" />
-      <workItem from="1573329147006" duration="5184000" />
+      <workItem from="1573329147006" duration="5336000" />
     </task>
     <servers />
   </component>

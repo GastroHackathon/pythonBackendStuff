@@ -38,7 +38,7 @@ def postProfileFood():
     print(request.json)
     # TODO do something with the data
 
-@app.route('/question/<cnt>')
+@app.route('/question/<cnt>', methods=['GET'])
 def question(cnt):
     if cnt == 1:
         return jsonify(get_first_question_response())
