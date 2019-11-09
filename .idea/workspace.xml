@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4411c0d-f3e0-4347-98c9-1dad79bb9c1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -91,7 +90,7 @@
       <updated>1573309439580</updated>
       <workItem from="1573309480227" duration="217000" />
       <workItem from="1573315742516" duration="4086000" />
-      <workItem from="1573329147006" duration="7062000" />
+      <workItem from="1573329147006" duration="7219000" />
     </task>
     <servers />
   </component>
@@ -116,7 +115,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/app.py</url>
-          <line>24</line>
+          <line>20</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>

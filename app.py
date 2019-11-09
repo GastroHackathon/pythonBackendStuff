@@ -6,8 +6,6 @@ from util.Icons import get_ihate
 from util.Icons import get_ilove
 from util.Icons import get_icant
 
-from flask_cors import CORS
-
 from util.Images import get_image_list
 
 from util.Questions import get_first_question_response
@@ -16,8 +14,6 @@ from util.Questions import get_third_question_response
 from util.Questions import get_final_flag
 
 app = Flask(__name__)
-CORS(app)
-
 
 @app.route('/profileGeneral', methods=['GET'])
 def getProfileGeneral():
