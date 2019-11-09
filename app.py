@@ -26,7 +26,7 @@ def getProfileGeneral():
         return jsonify(get_icant())
 
 
-@app.route('/profileGeneralPost', methods=['POST'])
+@app.route('/profileGeneral', methods=['POST'])
 def postProfileGeneral():
     print(request.json)
     # TODO do something with the data
