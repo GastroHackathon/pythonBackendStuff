@@ -2,6 +2,7 @@ from flask import Flask
 from flask import request
 from flask import jsonify
 from flask_cors import CORS
+from flask import Response
 
 from util.Icons import get_ihate
 from util.Icons import get_ilove
@@ -14,6 +15,8 @@ from util.Questions import get_second_question_response
 from util.Questions import get_third_question_response
 from util.Questions import get_final_flag
 
+import json as js
+
 app = Flask(__name__)
 CORS(app)
 
@@ -21,11 +24,12 @@ CORS(app)
 def getProfileGeneral():
     art = request.args.get('art')
     if art == 'ILove':
-        return jsonify(get_ilove())
+        print(get_ilove())
+        return Response(js.dumps(get_ilove()), mimetype='application/json')
     elif art == 'IHate':
-        return jsonify(get_ihate())
+        return Response(js.dumps(get_ihate()), mimetype='application/json')
     elif art == 'ICant':
-        return jsonify(get_icant())
+        return Response(js.dumps(get_icant()), mimetype='application/json')
 
 
 @app.route('/profileGeneral', methods=['POST'])
@@ -36,7 +40,7 @@ def postProfileGeneral():
 
 @app.route('/profileFood', methods=['GET'])
 def getProfileFood():
-    return jsonify(get_image_list())
+    return Response(js.dumps(get_image_list()), mimetype='application/json')
 
 
 @app.route('/profileFood', methods=['POST'])
@@ -49,13 +53,13 @@ def postProfileFood():
 def question():
     cnt = request.args.get('cnt')
     if cnt == 1:
-        return jsonify(get_first_question_response())
+        return Response(js.dumps(get_first_question_response()), mimetype='application/json')
     elif cnt == 2:
-        return jsonify(get_second_question_response())
+        return Response(js.dumps(get_second_question_response()), mimetype='application/json')
     elif cnt == 3:
-        return jsonify(get_third_question_response())
+        return Response(js.dumps(get_third_question_response()), mimetype='application/json')
     elif cnt == 4:
-        return jsonify(get_final_flag())
+        return Response(js.dumps(get_final_flag()), mimetype='application/json')
 
 
 @app.route('/results')
