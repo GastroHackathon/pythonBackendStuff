@@ -1,0 +1,91 @@
+,name,veggie,vegan,beef,pork,chicken,fish,healthy,Italy,Turkey,Japan,Austria,China,y
+0,Hausgemachtes Rindsgulasch mit Butterspätzle,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,Großmutters Kalbsrahmbeuschl mit Semmelknödel,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,Hausgemachtes Rindsgulasch mit Butterspätzle,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,"Schweinsschopfbraten mit Semmelknödel, Bratkartoffel und Krautsalat",False,False,True,False,False,False,False,False,False,False,True,False,0
+0,"Pinzgauer Kasnocken im Pfandl serviert, dazu grüner Salat",True,False,False,False,False,False,False,False,False,False,True,False,1
+0,Gefüllte Steinpilztascherl mit brauner Butter und Parmesan,True,False,False,False,False,False,True,False,False,False,True,False,0
+0,Spaghetti mit Shrimps in einer feinen Knoblauchrahmsauce,False,False,False,False,False,True,True,False,False,False,True,False,0
+0,Cordon bleu von der Pute mit Petersilkartoffel und Preiselbeeren,False,False,False,False,True,False,True,False,False,False,True,False,1
+0,"Gebackenes Hausschnitzel gefüllt mit Schinken, Käse, Champignon und Paprika dazu Petersilkartoffel und Preiselbeeren",False,False,False,True,False,False,False,False,False,False,True,False,0
+0,Wiener Schnitzel (vom Schwein) mit Petersilkartoffel und gemischtem Salat,False,False,False,True,False,False,False,False,False,False,True,False,0
+0,Wiener Schnitzel (vom Kalb) mit Petersilkartoffel und Preiselbeeren,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,Gebackenes Hühnerbrüstl mit Kartoffelsalat und Sauce Tartar,False,False,False,False,True,False,True,False,False,False,True,False,1
+0,"Tafelspitz mit Röstkartoffel, feinem Cremespinat und Apfelkren",False,False,True,False,False,False,True,False,False,False,True,False,1
+0,Zwiebelrostbraten von der Beiried mit Röstkartoffel,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,Luxemburger Beiriedspiess an Pfefferrahmsauce mit Speckbohnen und Kroketten,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,"Grillteller mit Gemüse, Pommes Frittes und Kräuterbutter",False,False,True,True,True,False,False,False,False,False,True,False,1
+0,Gebratenes Zanderfilet in Knoblauchbutter mit Petersilkartoffel und grünem Salat,False,False,False,False,False,True,True,False,False,False,True,False,0
+0,Gebratenes Lachssteak auf Juliennegemüse mit Petersilkartoffel und  Rieslingsauce,False,False,False,False,False,True,False,False,False,False,True,False,0
+0,Wiener Schnitzl,False,False,False,True,False,False,False,False,False,False,True,False,1
+0,Cordon Bleu,False,False,False,True,False,False,False,False,False,False,True,False,0
+0,Salzburger Schnitzl,False,False,False,True,False,False,False,False,False,False,True,False,1
+0,Pariser Putenschnitzl,False,False,False,False,True,False,False,False,False,False,True,False,1
+0,Gebackenes Putenschnitzl,False,False,False,False,True,False,False,False,False,False,True,False,1
+0,Champignonschnitzl mit Reis,False,False,False,True,False,False,False,False,False,False,True,False,0
+0,Gebackene Camembert,True,False,False,False,False,False,False,False,False,False,True,False,1
+0,Zanderfilet mit Sellerietascherl und Gemüse,False,False,False,False,False,True,False,False,False,False,True,False,0
+0,Medaillons vom Rehrücken mit Pilzen und Blaukraut,False,False,False,True,False,False,True,False,False,False,True,False,0
+0,Kalbsrahmgulasch mit Nockerln €,False,False,True,False,False,False,True,False,False,False,True,False,1
+0,Backhendel aus dem Butterschmalz mit Häuptl-Erdäpfel-Paradeisersalat,False,False,False,False,True,False,False,False,False,False,True,False,1
+0,Kebab - Pute,False,False,False,False,True,False,False,False,False,False,True,False,1
+0,Kebab - Rind,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,Dürüm - Pute,False,False,False,False,True,False,False,False,False,False,True,False,1
+0,Dürüm - Rind,False,False,True,False,False,False,False,False,False,False,True,False,1
+0,Bosna,False,False,False,True,False,False,False,False,False,False,True,False,0
+0,Pizza Margherita,True,False,False,False,False,False,False,True,False,False,True,False,1
+0,Pizza Salami,False,False,False,True,False,False,False,True,False,False,True,False,1
+0,Pizza Cardinale,False,False,True,False,False,False,False,True,False,False,True,False,0
+0,Pizza Funghi,True,False,False,False,False,False,False,True,False,False,True,False,0
+0,Pizza Florentina,True,False,False,False,False,False,False,True,False,False,True,False,0
+0,Pizza Casanova,False,False,True,False,False,False,False,True,False,False,True,False,0
+0,Pizza Siciliana,False,False,True,False,False,True,False,True,False,False,True,False,0
+0,Pizza Kebap,False,False,False,False,True,False,False,True,False,False,True,False,0
+0,Cevapcici,False,False,True,False,False,False,False,True,False,False,True,False,1
+0,Vesalica,False,False,False,True,False,False,False,True,False,False,True,False,0
+0,Hühnerspieß im Speckmantel,False,False,False,True,True,False,False,True,False,False,True,False,0
+0,Pilici batak,False,False,False,False,True,False,False,True,False,False,True,False,0
+0,Rindfleisch mit verschiedenem Gemüse,False,False,True,False,False,False,False,True,False,False,True,True,1
+0,Rindfleisch Sate (scharf) mit Erdnusssauce und Gemüse,False,False,True,False,False,False,False,True,False,False,True,True,1
+0,"Rindfleisch Zitronengras (scharf) mit Gemüse, Zwiebeln, Sellerie, Paprika und Zitronengras",False,False,True,False,False,False,False,True,False,False,True,True,1
+0,"Rindfleisch Thai-Curry (gelb, leicht scharf) mit Gemüse, gelbem Thai-Curry und Kokosmilch",False,False,True,False,False,False,False,True,False,False,True,True,0
+0,"Rindfleisch Thai-Curry (rot, scharf) mit Gemüse, gelbem Thai-Curry und Kokosmilch",False,False,True,False,False,False,False,True,False,False,True,True,0
+0,"Gebratenes Rindfleisch mit Peperoni, Paprika, Frühlingszwiebeln und Basilikum",False,False,True,False,False,False,False,True,False,False,True,True,1
+0,"Rindfleisch Thai-Curry (weiß, scharf) mit Gemüse, weißem Thai-Curry und Kokosmilch",False,False,True,False,False,False,False,True,False,False,True,True,1
+0,"Rindfleisch Thai-Curry (grün, scharf) mit Gemüse, grünem Thai-Curry und Kokosmilch",False,False,True,False,False,False,False,True,False,False,True,True,1
+0,Hühnerfleisch mit gemischtem Gemüse,False,False,False,False,True,False,True,True,False,False,True,True,1
+0,Hühnerfleisch Sate (scharf) mit Erdnusssauce und Gemüse,False,False,False,False,True,False,True,True,False,False,True,True,1
+0,"Hühnerfleisch (paniert) mit Süß-Sauer-Sauce, Ananas und Gemüse",False,False,False,False,True,False,True,True,False,False,True,True,1
+0,"Hühnerfleisch Zitronengras (scharf) mit Zwiebeln, Sellerie, Paprika und Zitronengras",False,False,False,False,True,False,True,True,False,False,True,True,1
+0,"Hühnerfleisch Thai-Curry (gelb, leicht scharf) mit Gemüse, gelbem Thai-Curry und Kokosmilch",False,False,False,False,True,False,True,True,False,False,True,True,0
+0,"Hühnerfleisch Thai-Curry (rot, scharf) mit Gemüse, rotem Thai-Curry und Kokosmilch",False,False,False,False,True,False,True,True,False,False,True,True,0
+0,"Hühnerfleisch gebraten (scharf) mit Peperoni, Paprika, Frühlingszwiebeln und Basilikum",False,False,False,False,True,False,True,True,False,False,True,True,1
+0,Gebratener Eierreis mit Hühnerfleisch und Gemüse,False,False,False,False,True,False,True,True,False,False,True,True,1
+0,Gebratene Nudeln mit Hühnerfleisch und Gemüse,False,False,False,False,True,False,True,True,False,False,True,True,1
+0,Gebratenes Hühnerfleisch mit Gemüse und Glasnudeln,False,False,False,False,True,False,True,True,False,False,True,True,1
+0,"Hühnerfleisch Thai-Curry (weiß, scharf) mit Gemüse, weißem Thai-Curry und Kokosmilch",False,False,False,False,True,False,True,True,False,False,True,True,1
+0,"Hühnerfleisch Thai-Curry (grün, scharf) mit Gemüse, grünem Thai-Curry und Kokosmilch",False,False,False,False,True,False,True,True,False,False,True,True,0
+0,Knuspriges Hähnchen mit verschiedenem Gemüse,False,False,False,False,True,False,False,True,False,False,True,True,1
+0,Knuspriges Hähnchen Sate (scharf) mit Erdnusssauce und Gemüse,False,False,False,False,True,False,False,True,False,False,True,True,1
+0,Knuspriges Hähnchen Süß-Sauer (scharf) mit Ananas und Gemüse,False,False,False,False,True,False,False,True,False,False,True,True,1
+0,"Knuspriges Hähnchen Thai-Curry (gelb, leicht scharf) mit Gemüse, gelbem Thai-Curry und Kokosmilch",False,False,False,False,True,False,False,True,False,False,True,True,0
+0,"Knuspriges Hähnchen Thai-Curry (rot, scharf) mit Gemüse, rotem Thai-Curry und Kokosmilch",False,False,False,False,True,False,False,True,False,False,True,True,0
+0,Knuspriges Hähnchen (gebraten) mit gebratenen Nudeln und Gemüse,False,False,False,False,True,False,False,True,False,False,True,True,1
+0,"Hähnchen Thai-Curry (weiß, scharf) mit Gemüse, weißem Thai-Curry und Kokosmilch",False,False,False,False,True,False,False,True,False,False,True,True,0
+0,"Hähnchen Thai-Curry (grün, scharf) mit Gemüse, grünem Thai-Curry und Kokosmilch",False,False,False,False,True,False,False,True,False,False,True,True,0
+0,Garnelen mit verschiedenem Gemüse,False,False,False,False,False,True,True,True,False,False,True,True,0
+0,Garnelen Sate (scharf) mit Erdnusssauce und Gemüse,False,False,False,False,False,True,True,True,False,False,True,True,0
+0,"Gebackene Garnelen mit Süß-Sauer-Sauce, Ananas und Gemüse",False,False,False,False,False,True,True,True,False,False,True,True,0
+0,"Garnelen Zitronengras (scharf) mit Zwiebeln, Bambus, Paprika, Sellerie und Zitronengras",False,False,False,False,False,True,True,True,False,False,True,True,0
+0,"Garnelen Thai-Curry (gelb, leicht scharf) mit gelbem Thai Curry, Kokosmilch und Gemüse",False,False,False,False,False,True,True,True,False,False,True,True,0
+0,"Garnelen Thai-Curry (rot, scharf) mit rotem Thai Curry, Gemüse und Kokosmilch",False,False,False,False,False,True,True,True,False,False,True,True,0
+0,Garnelen mit gebratenem Eierreis und Gemüse,False,False,False,False,False,True,True,True,False,False,True,True,0
+0,Garnelen mit Nudeln und Gemüse,False,False,False,False,False,True,True,True,False,False,True,True,0
+0,"Garnelen Thai-Curry (weiß, scharf) mit Gemüse, weißem Thai-Curry und Kokosmilch",False,False,False,False,False,True,True,True,False,False,True,True,0
+0,"Garnelen Thai-Curry (grün, scharf) mit Gemüse, grünem Thai-Curry und Kokosmilch",False,False,False,False,False,True,True,True,False,False,True,True,0
+0,Gebratener Tofu mit Gemüse,True,False,False,False,False,False,True,True,False,False,True,True,0
+0,"Tofu Zitronengras (scharf) mit Gemüse, Sellerie, Paprika und Zitronengras",True,False,False,False,False,False,True,True,False,False,True,True,0
+0,"Tofu Thai-Curry (gelb, leicht scharf) mit gelben Thai-Curry, Gemüse und Kokosmilch",True,False,False,False,False,False,True,True,False,False,True,True,0
+0,"Tofu Thai-Curry (rot, scharf) mit roten Thai-Curry, Gemüse und Kokosmilch",True,False,False,False,False,False,True,True,False,False,True,True,0
+0,Tofu Nudeln mit gebratenen Nudeln und Gemüse,True,False,False,False,False,False,True,True,False,False,True,True,0
+0,Tofu Glasnudeln mit Glasnudeln und Gemüse,True,False,False,False,False,False,True,True,False,False,True,True,0

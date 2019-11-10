@@ -1,0 +1,1257 @@
+[{"name": "Hausgemachtes Rindsgulasch mit Butterspätzle",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.5}}},
+
+  {"name": "Großmutters Kalbsrahmbeuschl mit Semmelknödel",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.5}}},
+
+  {"name": "Hausgemachtes Rindsgulasch mit Butterspätzle",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.5}}},
+
+  {"name": "Schweinsschopfbraten mit Semmelknödel, Bratkartoffel und Krautsalat",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.9}}},
+
+{"name": "Pinzgauer Kasnocken im Pfandl serviert, dazu grüner Salat",
+  "veggie": true,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.5}}},
+
+{"name": "Gefüllte Steinpilztascherl mit brauner Butter und Parmesan",
+  "veggie": true,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": true,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 10.9}}},
+
+  {"name": "Spaghetti mit Shrimps in einer feinen Knoblauchrahmsauce",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": true,
+  "healthy": true,
+  "allergens": ["A", "B", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 12.5}}},
+
+  {"name": "Cordon bleu von der Pute mit Petersilkartoffel und Preiselbeeren",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": true,
+  "allergens": ["A", "C", "G", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 12.9}}},
+
+  {"name": "Gebackenes Hausschnitzel gefüllt mit Schinken, Käse, Champignon und Paprika dazu Petersilkartoffel und Preiselbeeren",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "O"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 14.2}}},
+
+{"name": "Wiener Schnitzel (vom Schwein) mit Petersilkartoffel und gemischtem Salat",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.9}}},
+
+  {"name": "Wiener Schnitzel (vom Kalb) mit Petersilkartoffel und Preiselbeeren",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 17.9}}},
+
+{"name": "Gebackenes Hühnerbrüstl mit Kartoffelsalat und Sauce Tartar",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": true,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 11.9}}},
+
+  {"name": "Tafelspitz mit Röstkartoffel, feinem Cremespinat und Apfelkren",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": true,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 16.9}}},
+
+  {"name": "Zwiebelrostbraten von der Beiried mit Röstkartoffel",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 16.9}}},
+
+  {"name": "Luxemburger Beiriedspiess an Pfefferrahmsauce mit Speckbohnen und Kroketten",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 16.9}}},
+
+  {"name": "Grillteller mit Gemüse, Pommes Frittes und Kräuterbutter",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": true,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 14.5}}},
+
+  {"name": "Gebratenes Zanderfilet in Knoblauchbutter mit Petersilkartoffel und grünem Salat",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": true,
+  "healthy": true,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 15.9}}},
+
+  {"name": "Gebratenes Lachssteak auf Juliennegemüse mit Petersilkartoffel und  Rieslingsauce",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": true,
+  "healthy": false,
+  "allergens": ["A", "B", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ1wGpBwiQdkcR3Vc9B1mD7Lc": {"price": 15.9}}},
+
+  {"name": "Wiener Schnitzl",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 7.00}}},
+  
+  {"name": "Cordon Bleu",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 8.50}}},
+  
+  {"name": "Salzburger Schnitzl",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 8.60}}},
+  
+  {"name": "Pariser Putenschnitzl",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 7.50}}},
+  
+  {"name": "Gebackenes Putenschnitzl",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 9.30}}},
+  
+  {"name": "Champignonschnitzl mit Reis",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 9.90}}},
+  
+  {"name": "Gebackene Camembert",
+  "veggie": true,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJzZfzB3SQdkcRRdLPbUNqRTM": {"price": 6.00}}},
+
+{"name": "Zanderfilet mit Sellerietascherl und Gemüse",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": true,
+  "healthy": false,
+  "allergens": ["A", "D", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJ44eRDa2adkcRBpmhhcXRonA": {"price": 25}}},
+
+{"name": "Medaillons vom Rehrücken mit Pilzen und Blaukraut",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": true,
+  "allergens": ["B", "D", "R"],
+  "origin": "Austria",
+  "available_in": {"ChIJ44eRDa2adkcRBpmhhcXRonA": {"price": 32}}},
+
+
+{"name": "Kalbsrahmgulasch mit Nockerln €",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": true,
+  "allergens": ["B", "C" ,"D", "R"],
+  "origin": "Austria",
+  "available_in": {"ChIJ44eRDa2adkcRBpmhhcXRonA": {"price": 19}}},
+
+{"name": "Backhendel aus dem Butterschmalz mit Häuptl-Erdäpfel-Paradeisersalat",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["B", "D", "R"],
+  "origin": "Austria",
+  "available_in": {"ChIJ44eRDa2adkcRBpmhhcXRonA": {"price": 21}}},
+
+{"name": "Kebab - Pute",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJI8RBeXWQdkcRJekMvEWlmi0": {"price": 30}}},
+
+{"name": "Kebab - Rind",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJI8RBeXWQdkcRJekMvEWlmi0": {"price": 4.2}}},
+
+{"name": "Dürüm - Pute",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJI8RBeXWQdkcRJekMvEWlmi0": {"price": 4.7}}},
+
+{"name": "Dürüm - Rind",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJI8RBeXWQdkcRJekMvEWlmi0": {"price": 5}}},
+
+{"name": "Bosna",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G", "L", "M", "P"],
+  "origin": "Austria",
+  "available_in": {"ChIJI8RBeXWQdkcRJekMvEWlmi0": {"price": 5.7}}},
+{"name": "Pizza Margherita",
+  "veggie": true,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 6.70}}},
+  
+  {"name": "Pizza Salami",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 7.50}}},
+  
+  {"name": "Pizza Cardinale",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 7.50}}},
+  
+  {"name": "Pizza Funghi",
+  "veggie": true,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 7.50}}},
+  
+  {"name": "Pizza Florentina",
+  "veggie": true,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 8.50}}},
+  
+  {"name": "Pizza Casanova",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "C", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 8.50}}},
+  
+  {"name": "Pizza Siciliana",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": true,
+  "healthy": false,
+  "allergens": ["A", "D", "G"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 8.50}}},
+  
+  {"name": "Pizza Kebap",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A"],
+  "origin": "Italy",
+  "available_in": {"ChIJy0byenSQdkcRc0W29kTJhhA": {"price": 8.50}}},
+
+{"name": "Cevapcici",
+  "veggie": false,
+  "vegan": false,
+  "beef": true,
+  "pork": false,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G", "L", "O"],
+  "origin": "Austria",
+  "available_in": {"ChIJH32QsLuadkcRUIKkCjrPq8E": {"price": 8.90}}},
+
+  {"name": "Vesalica",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": false,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJH32QsLuadkcRUIKkCjrPq8E": {"price": 10.90}}},  
+  
+  {"name": "Hühnerspieß im Speckmantel",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": true,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJH32QsLuadkcRUIKkCjrPq8E": {"price": 10.90}}},
+  
+  {"name": "Pilici batak",
+  "veggie": false,
+  "vegan": false,
+  "beef": false,
+  "pork": false,
+  "chicken": true,
+  "fish": false,
+  "healthy": false,
+  "allergens": ["A", "G"],
+  "origin": "Austria",
+  "available_in": {"ChIJH32QsLuadkcRUIKkCjrPq8E": {"price": 10.90}}},
+{
+	"name": "Rindfleisch mit verschiedenem Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Rindfleisch Sate (scharf) mit Erdnusssauce und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Rindfleisch Zitronengras (scharf) mit Gem\u00fcse, Zwiebeln, Sellerie, Paprika und Zitronengras",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Rindfleisch Thai-Curry (gelb, leicht scharf) mit Gem\u00fcse, gelbem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Rindfleisch Thai-Curry (rot, scharf) mit Gem\u00fcse, gelbem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Gebratenes Rindfleisch mit Peperoni, Paprika, Fr\u00fchlingszwiebeln und Basilikum",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Rindfleisch Thai-Curry (wei\u00df, scharf) mit Gem\u00fcse, wei\u00dfem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Rindfleisch Thai-Curry (gr\u00fcn, scharf) mit Gem\u00fcse, gr\u00fcnem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": true,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch mit gemischtem Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch Sate (scharf) mit Erdnusssauce und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch (paniert) mit S\u00fc\u00df-Sauer-Sauce, Ananas und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch Zitronengras (scharf) mit Zwiebeln, Sellerie, Paprika und Zitronengras",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch Thai-Curry (gelb, leicht scharf) mit Gem\u00fcse, gelbem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch Thai-Curry (rot, scharf) mit Gem\u00fcse, rotem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch gebraten (scharf) mit Peperoni, Paprika, Fr\u00fchlingszwiebeln und Basilikum",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "Gebratener Eierreis mit H\u00fchnerfleisch und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "Gebratene Nudeln mit H\u00fchnerfleisch und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "Gebratenes H\u00fchnerfleisch mit Gem\u00fcse und Glasnudeln",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch Thai-Curry (wei\u00df, scharf) mit Gem\u00fcse, wei\u00dfem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00fchnerfleisch Thai-Curry (gr\u00fcn, scharf) mit Gem\u00fcse, gr\u00fcnem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "Knuspriges H\u00e4hnchen mit verschiedenem Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Knuspriges H\u00e4hnchen Sate (scharf) mit Erdnusssauce und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Knuspriges H\u00e4hnchen S\u00fc\u00df-Sauer (scharf) mit Ananas und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Knuspriges H\u00e4hnchen Thai-Curry (gelb, leicht scharf) mit Gem\u00fcse, gelbem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Knuspriges H\u00e4hnchen Thai-Curry (rot, scharf) mit Gem\u00fcse, rotem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "Knuspriges H\u00e4hnchen (gebraten) mit gebratenen Nudeln und Gem\u00fcse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 8.0
+		}
+	}
+}, {
+	"name": "H\u00e4hnchen Thai-Curry (wei\u00df, scharf) mit Gem\u00fcse, wei\u00dfem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "H\u00e4hnchen Thai-Curry (gr\u00fcn, scharf) mit Gem\u00fcse, gr\u00fcnem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": true,
+	"fish": false,
+	"healthy": false,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7.0
+		}
+	}
+}, {
+	"name": "Garnelen mit verschiedenem Gemüse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen Sate (scharf) mit Erdnusssauce und Gemüse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Gebackene Garnelen mit Süß-Sauer-Sauce, Ananas und Gemüse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen Zitronengras (scharf) mit Zwiebeln, Bambus, Paprika, Sellerie und Zitronengras",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen Thai-Curry (gelb, leicht scharf) mit gelbem Thai Curry, Kokosmilch und Gemüse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen Thai-Curry (rot, scharf) mit rotem Thai Curry, Gemüse und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen mit gebratenem Eierreis und Gemüse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen mit Nudeln und Gemüse",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen Thai-Curry (weiß, scharf) mit Gemüse, weißem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Garnelen Thai-Curry (grün, scharf) mit Gemüse, grünem Thai-Curry und Kokosmilch",
+	"veggie": false,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": true,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 10
+		}
+	}
+}, {
+	"name": "Gebratener Tofu mit Gemüse",
+	"veggie": true,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7
+		}
+	}
+}, {
+	"name": "Tofu Zitronengras (scharf) mit Gemüse, Sellerie, Paprika und Zitronengras",
+	"veggie": true,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7
+		}
+	}
+}, {
+	"name": "Tofu Thai-Curry (gelb, leicht scharf) mit gelben Thai-Curry, Gemüse und Kokosmilch",
+	"veggie": true,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7
+		}
+	}
+}, {
+	"name": "Tofu Thai-Curry (rot, scharf) mit roten Thai-Curry, Gemüse und Kokosmilch",
+	"veggie": true,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7
+		}
+	}
+}, {
+	"name": "Tofu Nudeln mit gebratenen Nudeln und Gemüse",
+	"veggie": true,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 7
+		}
+	}
+}, {
+	"name": "Tofu Glasnudeln mit Glasnudeln und Gemüse",
+	"veggie": true,
+	"vegan": false,
+	"beef": false,
+	"pork": false,
+	"chicken": false,
+	"fish": false,
+	"healthy": true,
+	"allergens": ["A", "C", "G", "L", "M", "P"],
+	"origin": "China",
+	"available_in": {
+		"ChIJaTVYmHSQdkcR05LbereMPiY": {
+			"price": 6
+		}
+	}
+}]
+
