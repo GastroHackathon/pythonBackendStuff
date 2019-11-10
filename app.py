@@ -15,10 +15,14 @@ from util.Questions import get_second_question_response
 from util.Questions import get_third_question_response
 from util.Questions import get_final_flag
 
+from domain.User import User
+
 import json as js
+import os
 
 app = Flask(__name__)
 CORS(app)
+dishes = []
 
 @app.route('/profileGeneral', methods=['GET'])
 def getProfileGeneral():
@@ -34,9 +38,16 @@ def getProfileGeneral():
 
 @app.route('/profileGeneral', methods=['POST'])
 def postProfileGeneral():
-    print(request.json)
-    return Response(js.dumps(True), mimetype='application/json')    
+    print(request.json)   
+    new_user = User()
+    new_user.load_dishes()
+    req = js.loads(request.data)
+
+    if req['art'] == 'ICant' :
+        new_user.filter_preferences(req['id'])
+    #if req['art'] == 'ICant':
     # TODO do something with the data
+    return Response(js.dumps(True), mimetype='application/json') return None
 
 
 @app.route('/profileFood', methods=['GET'])
@@ -66,8 +77,9 @@ def question():
 
 @app.route('/results')
 def results():
-    return None
+    return Response(js.dumps(True), mimetype='application/json') 
 
 
 if __name__ == '__main__':
     app.run()
+
