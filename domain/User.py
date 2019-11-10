@@ -21,7 +21,6 @@ class User():
     def filter_preferences(self, id):
         if id == 1:
             self.dishes = [dish for dish in self.dishes if not dish['veggie']]
-            print(self.dishes)
         if id == 2 :
             self.dishes = [dish for dish in self.dishes if not dish['vegan']]
         if id == 3:
@@ -30,6 +29,7 @@ class User():
             self.dishes = [dish for dish in self.dishes if not dish['fish']]
         if id == 5:
             self.dishes = [dish for dish in self.dishes if not 'G' in dish['allergens']]
+        print(self.dishes)
 
 
 
