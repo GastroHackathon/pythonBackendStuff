@@ -47,7 +47,7 @@ def postProfileGeneral():
         new_user.filter_preferences(req['id'])
     #if req['art'] == 'ICant':
     # TODO do something with the data
-    return Response(js.dumps(True), mimetype='application/json') return None
+    return Response(js.dumps(True), mimetype='application/json')
 
 
 @app.route('/profileFood', methods=['GET'])
