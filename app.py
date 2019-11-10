@@ -62,7 +62,7 @@ def postProfileFood():
     # TODO do something with the data
 
 
-@app.route('return Response(js.dumps(get_third_question_response()), mimetype='application/json')/question', methods=['GET'])
+@app.route('/question', methods=['GET'])
 def question():
     cnt = request.args.get('cnt')
     if cnt == '1':
@@ -70,7 +70,7 @@ def question():
     elif cnt == '2':
         return Response(js.dumps(get_second_question_response()), mimetype='application/json')
     elif cnt == '3':
-        
+        return Response(js.dumps(get_third_question_response()), mimetype='application/json')
     else:
         return Response(js.dumps(get_final_flag()), mimetype='application/json')
 
