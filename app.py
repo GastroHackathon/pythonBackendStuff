@@ -16,6 +16,7 @@ from util.Questions import get_third_question_response
 from util.Questions import get_final_flag
 
 from domain.User import User
+from util.machine_learning import predict_choice
 
 import json as js
 import os
@@ -23,6 +24,8 @@ import os
 app = Flask(__name__)
 CORS(app)
 dishes = []
+new_user = User()
+new_user.load_dishes()
 
 @app.route('/profileGeneral', methods=['GET'])
 def getProfileGeneral():
@@ -38,13 +41,16 @@ def getProfileGeneral():
 
 @app.route('/profileGeneral', methods=['POST'])
 def postProfileGeneral():
+
     print(request.json)   
     new_user = User()
     new_user.load_dishes()
     req = js.loads(request.data)
 
+    req = js.loads(request.data)
     if req['art'] == 'ICant' :
         new_user.filter_preferences(req['id'])
+
     #if req['art'] == 'ICant':
     # TODO do something with the data
     return Response(js.dumps(True), mimetype='application/json')
@@ -77,7 +83,14 @@ def question():
 
 @app.route('/results')
 def results():
-    return Response(js.dumps(True), mimetype='application/json') 
+    res = predict_choice(new_user.dishes)
+    res = [dish for dish in new_user.dishes if dish['name'] in list(res['name'])]
+    output = []
+    for r in res:
+        if r not in output:
+            output.append(r)
+    output
+    return Response(js.dumps(output), mimetype='application/json')
 
 
 if __name__ == '__main__':
