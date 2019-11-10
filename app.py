@@ -85,7 +85,7 @@ def postQuestion():
         if req['answerId'] == 0:
             new_user.dishes = adventure_filter(new_user.dishes, new_user.dish_history)
         else:
-            new_user.dishes = adventure_filter(new_user.dishes, new_user.dish_history, false)
+            new_user.dishes = adventure_filter(new_user.dishes, new_user.dish_history, False)
 
     return Response(js.dumps(True), mimetype='application/json')
 
@@ -102,8 +102,9 @@ def results():
         restaurants = json.load(f)
     for dish in output:
         key = dish['available_in']
-        restaurant = [restaurant for restaurant in restaurants if restaurant['place_id'] == key]
-        dish['available_in']['data'] = restaurant[0]
+        rlist = [restaurant for restaurant in restaurants if restaurant['place_id'] == key]
+        print(rlist)
+        dish['available_in']['data'] = rlist[0]
     return Response(js.dumps(output), mimetype='application/json')
 
 

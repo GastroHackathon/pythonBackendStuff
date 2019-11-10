@@ -21,10 +21,10 @@ class User():
     def filter_preferences(self, id):
         if id == 1:
             self.dishes = [dish for dish in self.dishes if not dish['veggie']]
+            print(self.dishes)
         if id == 2 :
             self.dishes = [dish for dish in self.dishes if not dish['vegan']]
         if id == 3:
-            print('drin')
             self.dishes = [dish for dish in self.dishes if not 'A' in dish['allergens']]
         if id == 4:
             self.dishes = [dish for dish in self.dishes if not dish['fish']]
