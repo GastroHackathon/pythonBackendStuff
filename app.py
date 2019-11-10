@@ -1,25 +1,22 @@
-from flask import Flask
-from flask import request
-from flask import jsonify
-from flask_cors import CORS
-from flask import Response
+import json
+import json as js
 
+from flask import Flask
+from flask import Response
+from flask import request
+from flask_cors import CORS
+
+from domain.User import User
+from util.Icons import get_icant
 from util.Icons import get_ihate
 from util.Icons import get_ilove
-from util.Icons import get_icant
-
 from util.Images import get_image_list
-
+from util.Questions import get_final_flag
 from util.Questions import get_first_question_response
 from util.Questions import get_second_question_response
 from util.Questions import get_third_question_response
-from util.Questions import get_final_flag
-
-from domain.User import User
 from util.machine_learning import predict_choice
-
-import json as js
-import os
+from util.text_mining import adventure_filter
 
 app = Flask(__name__)
 CORS(app)
@@ -27,8 +24,12 @@ dishes = []
 new_user = User()
 new_user.load_dishes()
 
+
 @app.route('/profileGeneral', methods=['GET'])
 def getProfileGeneral():
+    new_user = User()
+    new_user.load_dishes()
+
     art = request.args.get('art')
     if art == 'ILove':
         print(get_ilove())
@@ -42,12 +43,9 @@ def getProfileGeneral():
 @app.route('/profileGeneral', methods=['POST'])
 def postProfileGeneral():
     req = js.loads(request.data)
-    if req['art'] == 'ICant' :
+    if req['art'] == 'ICant':
         new_user.filter_preferences(req['id'])
 
-    print(new_user)
-    #if req['art'] == 'ICant':
-    # TODO do something with the data
     return Response(js.dumps(True), mimetype='application/json')
 
 
@@ -76,6 +74,22 @@ def question():
         return Response(js.dumps(get_final_flag()), mimetype='application/json')
 
 
+@app.route('/question', methods=['POST'])
+def postQuestion():
+    req = js.loads(request.data)
+
+    if req['id'] == 1:
+        if req['answerId'] == 0:
+            new_user.filter_preferences(1)
+    elif req['id'] == 2:
+        if req['answerId'] == 0:
+            new_user.dishes = adventure_filter(new_user.dishes, new_user.dish_history)
+        else:
+            new_user.dishes = adventure_filter(new_user.dishes, new_user.dish_history, false)
+
+    return Response(js.dumps(True), mimetype='application/json')
+
+
 @app.route('/results')
 def results():
     res = predict_choice(new_user.dishes)
@@ -84,10 +98,14 @@ def results():
     for r in res:
         if r not in output:
             output.append(r)
-    output
+    with open('data/restaurants.json') as f:
+        restaurants = json.load(f)
+    for dish in output:
+        key = dish['available_in']
+        restaurant = [restaurant for restaurant in restaurants if restaurant['place_id'] == key]
+        dish['available_in']['data'] = restaurant[0]
     return Response(js.dumps(output), mimetype='application/json')
 
 
 if __name__ == '__main__':
     app.run()
-

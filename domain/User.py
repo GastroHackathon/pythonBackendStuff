@@ -8,6 +8,8 @@ class User():
     def __init__(self):
         self.name = 'ALEX'
         self.dishes = []
+        self.dish_history = ['Spaghetti mit Shrimps in einer feinen Knoblauchrahmsauce',
+                             'Wiener Schnitzl']
 
     def load_dishes(self):
         print(os.getcwd())
