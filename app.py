@@ -41,16 +41,11 @@ def getProfileGeneral():
 
 @app.route('/profileGeneral', methods=['POST'])
 def postProfileGeneral():
-
-    print(request.json)   
-    new_user = User()
-    new_user.load_dishes()
-    req = js.loads(request.data)
-
     req = js.loads(request.data)
     if req['art'] == 'ICant' :
         new_user.filter_preferences(req['id'])
 
+    print(new_user)
     #if req['art'] == 'ICant':
     # TODO do something with the data
     return Response(js.dumps(True), mimetype='application/json')

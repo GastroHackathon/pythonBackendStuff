@@ -22,6 +22,7 @@ class User():
         if id == 2 :
             self.dishes = [dish for dish in self.dishes if not dish['vegan']]
         if id == 3:
+            print('drin')
             self.dishes = [dish for dish in self.dishes if not 'A' in dish['allergens']]
         if id == 4:
             self.dishes = [dish for dish in self.dishes if not dish['fish']]
