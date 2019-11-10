@@ -4,8 +4,6 @@
     <list default="true" id="c4411c0d-f3e0-4347-98c9-1dad79bb9c1c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/domain/User.py" beforeDir="false" afterPath="$PROJECT_DIR$/domain/User.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/Result.py" beforeDir="false" afterPath="$PROJECT_DIR$/util/Result.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +91,7 @@
       <updated>1573309439580</updated>
       <workItem from="1573309480227" duration="217000" />
       <workItem from="1573315742516" duration="4086000" />
-      <workItem from="1573329147006" duration="14104000" />
+      <workItem from="1573329147006" duration="16195000" />
     </task>
     <servers />
   </component>
@@ -125,6 +123,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pyhtonBackend$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1573346393308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/pyhtonBackend$Flask__app_py_.coverage" NAME="Flask (app.py) Coverage Results" MODIFIED="1573348917577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
 </project>
