@@ -1,5 +1,5 @@
 def get_first_question_response():
-    return {'id': 1, 'question': 'Would you prefer omni or veggie?', 'answer': ['Meat', 'Veggie'], 'continue': True}
+    return {'id': 1, 'question': 'How about veggie?', 'answer': ['No, i prefer meat', 'Lets go Veggie'], 'continue': True}
 
 
 def get_second_question_response():
