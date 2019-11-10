@@ -35,6 +35,7 @@ def getProfileGeneral():
 @app.route('/profileGeneral', methods=['POST'])
 def postProfileGeneral():
     print(request.json)
+    return Response(js.dumps(True), mimetype='application/json')    
     # TODO do something with the data
 
 
@@ -46,19 +47,20 @@ def getProfileFood():
 @app.route('/profileFood', methods=['POST'])
 def postProfileFood():
     print(request.json)
+    return Response(js.dumps(True), mimetype='application/json')
     # TODO do something with the data
 
 
-@app.route('/question', methods=['GET'])
+@app.route('return Response(js.dumps(get_third_question_response()), mimetype='application/json')/question', methods=['GET'])
 def question():
     cnt = request.args.get('cnt')
-    if cnt == 1:
+    if cnt == '1':
         return Response(js.dumps(get_first_question_response()), mimetype='application/json')
-    elif cnt == 2:
+    elif cnt == '2':
         return Response(js.dumps(get_second_question_response()), mimetype='application/json')
-    elif cnt == 3:
-        return Response(js.dumps(get_third_question_response()), mimetype='application/json')
-    elif cnt == 4:
+    elif cnt == '3':
+        
+    else:
         return Response(js.dumps(get_final_flag()), mimetype='application/json')
 
 
